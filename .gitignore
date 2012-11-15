@@ -22,3 +22,9 @@ _site
 ehthumbs.db
 Icon?
 Thumbs.db
+
+
+# Text Editor files #
+#####################
+.tm_properties
+
